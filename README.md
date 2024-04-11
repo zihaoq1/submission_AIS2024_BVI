@@ -10,3 +10,5 @@ run vqa.py -m FasterVQA -v /path/to/video.mp4
 ```shell
 run vqa.py -m FasterVQA -v /path/to/video/directory -c /optional/ais24_pred.csv
 ```
+
+.pth model could be downloaded through GoogleDrive at (https://drive.google.com/drive/folders/1wn6R2oFSvw-_C9XGvsi1zIE_AzxC1lKN?usp=drive_link)
