@@ -1,0 +1,294 @@
+24-04-01 17:13:11.436 : Results of X2
+24-04-01 17:13:11.436 : Params number: 2225153
+24-04-01 17:14:05.672 : Results of test_model
+24-04-01 17:14:05.672 : Params number: 2225153
+24-04-01 17:14:34.604 : Results of test_model
+24-04-01 17:14:34.604 : Params number: 2225153
+24-04-01 17:14:49.573 : Results of test_model
+24-04-01 17:14:49.573 : Params number: 2225153
+24-04-01 17:18:50.489 : Results of test_model
+24-04-01 17:18:50.489 : Params number: 2225153
+24-04-01 17:18:51.272 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:19:14.639 : Results of test_model
+24-04-01 17:19:14.639 : Params number: 2225153
+24-04-01 17:19:15.436 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:22:48.949 : Results of test_model
+24-04-01 17:22:48.949 : Params number: 2225153
+24-04-01 17:22:49.736 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:23:48.035 : Results of test_model
+24-04-01 17:23:48.035 : Params number: 2225153
+24-04-01 17:23:48.818 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:24:01.734 : ------> Average runtime of (test_model) is : 216.982428 ms
+24-04-01 17:26:00.466 : Results of test_model
+24-04-01 17:26:00.466 : Params number: 2225153
+24-04-01 17:26:01.253 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:26:14.039 : ------> Average runtime of (test_model) is : 216.883774 ms
+24-04-01 17:29:15.623 : Results of test_model
+24-04-01 17:29:15.623 : Params number: 2225153
+24-04-01 17:29:16.410 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:29:29.217 : ------> Average runtime of (test_model) is : 216.870871 ms
+24-04-01 17:31:23.260 : Results of test_model
+24-04-01 17:31:23.261 : Params number: 2225153
+24-04-01 17:31:24.048 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:31:36.849 : ------> Average runtime of (test_model) is : 216.873755 ms
+24-04-01 17:33:59.459 : Results of test_model
+24-04-01 17:33:59.459 : Params number: 2225153
+24-04-01 17:34:00.248 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:34:13.060 : ------> Average runtime of (test_model) is : 216.764978 ms
+24-04-01 17:34:48.385 : Results of test_model
+24-04-01 17:34:48.385 : Params number: 2225153
+24-04-01 17:34:49.173 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:35:01.971 : ------> Average runtime of (test_model) is : 216.354913 ms
+24-04-01 17:36:09.966 : Results of test_model
+24-04-01 17:36:09.966 : Params number: 2225153
+24-04-01 17:36:10.754 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:36:23.597 : ------> Average runtime of (test_model) is : 216.400284 ms
+24-04-01 17:37:24.912 : Results of test_model
+24-04-01 17:37:24.913 : Params number: 2225153
+24-04-01 17:37:25.696 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:37:38.532 : ------> Average runtime of (test_model) is : 216.422623 ms
+24-04-01 17:37:38.545 :            FLOPs : 397309594881.0000 [G]
+24-04-01 17:37:38.545 :          #Params : 2.2252 [M]
+24-04-01 17:39:33.436 : Results of test_model
+24-04-01 17:39:33.436 : Params number: 2225153
+24-04-01 17:39:34.225 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:39:46.448 : ------> Average runtime of (test_model) is : 141.201505 ms
+24-04-01 17:39:46.460 :            FLOPs : 397309594881.0000 [G]
+24-04-01 17:39:46.461 :          #Params : 2.2252 [M]
+24-04-01 17:41:51.473 : Results of test_model
+24-04-01 17:41:51.473 : Params number: 2225153
+24-04-01 17:41:52.261 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:42:04.486 : ------> Average runtime of (test_model) is : 141.060175 ms
+24-04-01 17:42:27.270 : Results of test_model
+24-04-01 17:42:27.270 : Params number: 2225153
+24-04-01 17:42:28.058 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:42:40.276 : ------> Average runtime of (test_model) is : 140.800137 ms
+24-04-01 17:42:40.465 :            FLOPs : 397309594881.0000 [G]
+24-04-01 17:42:40.465 :          #Params : 2.2252 [M]
+24-04-01 17:43:24.628 : Results of test_model
+24-04-01 17:43:24.635 : Params number: 2225153
+24-04-01 17:43:25.452 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:43:37.461 : ------> Average runtime of (test_model) is : 140.868622 ms
+24-04-01 17:43:37.651 :            FLOPs : 397309594881.0000 [G]
+24-04-01 17:43:37.651 :          #Params : 2.2252 [M]
+24-04-01 17:46:00.564 : Results of test_model
+24-04-01 17:46:00.564 : Params number: 2225153
+24-04-01 17:46:01.399 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-01 17:46:08.190 : ------> Average runtime of (test_model) is : 139.780212 ms
+24-04-01 17:46:08.381 :             MACs : 397309594881.0000 [G]
+24-04-01 17:46:08.381 :          #Params : 2.2252 [M]
+24-04-12 18:44:04.443 : Results of test_model
+24-04-12 18:44:04.443 : Params number: 28127901
+24-04-12 18:44:05.653 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-12 18:44:05.685 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 18:44:09.301 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 18:44:09.301 : ------> Average runtime on clip 30-frames  of (test_model) is : 51.178701 ms
+24-04-12 18:44:09.301 : ------> Average runtime per frame of (test_model) is : 1.705957 ms
+24-04-12 18:44:09.301 : ------> Average FPS of (test_model) is : 586.181349 FPS
+24-04-12 18:44:55.245 : Results of test_model
+24-04-12 18:44:55.245 : Params number: 28127901
+24-04-12 18:44:56.449 : Input resolution: torch.Size([1, 30, 3, 1920, 1080])
+24-04-12 18:44:56.479 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 18:44:57.422 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 18:44:57.422 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.540108 ms
+24-04-12 18:44:57.422 : ------> Average runtime per frame of (test_model) is : 1.751337 ms
+24-04-12 18:44:57.422 : ------> Average FPS of (test_model) is : 570.992350 FPS
+24-04-12 18:51:01.843 : Results of test_model
+24-04-12 18:51:01.844 : Params number: 28127901
+24-04-12 18:51:01.884 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 18:51:02.817 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 18:51:02.817 : ------> Average runtime on clip 30-frames  of (test_model) is : 51.789414 ms
+24-04-12 18:51:02.817 : ------> Average runtime per frame of (test_model) is : 1.726314 ms
+24-04-12 18:51:02.817 : ------> Average FPS of (test_model) is : 579.268962 FPS
+24-04-12 18:52:24.327 : Results of test_model
+24-04-12 18:52:24.327 : Params number: 28127901
+24-04-12 18:52:24.363 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 18:52:28.247 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 18:52:28.247 : ------> Average runtime on clip 30-frames  of (test_model) is : 51.773235 ms
+24-04-12 18:52:28.247 : ------> Average runtime per frame of (test_model) is : 1.725774 ms
+24-04-12 18:52:28.247 : ------> Average FPS of (test_model) is : 579.449985 FPS
+24-04-12 18:54:00.180 : Results of test_model
+24-04-12 18:54:00.180 : Params number: 28127901
+24-04-12 18:54:00.217 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 18:54:01.165 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 18:54:01.165 : ------> Average runtime on clip 30-frames  of (test_model) is : 51.701965 ms
+24-04-12 18:54:01.165 : ------> Average runtime per frame of (test_model) is : 1.723399 ms
+24-04-12 18:54:01.165 : ------> Average FPS of (test_model) is : 580.248740 FPS
+24-04-12 18:54:22.274 : Results of test_model
+24-04-12 18:54:22.274 : Params number: 28127901
+24-04-12 18:54:22.317 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 18:54:23.351 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 18:54:23.351 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.144026 ms
+24-04-12 18:54:23.352 : ------> Average runtime per frame of (test_model) is : 1.738134 ms
+24-04-12 18:54:23.352 : ------> Average FPS of (test_model) is : 575.329571 FPS
+24-04-12 18:58:14.538 : Results of test_model
+24-04-12 18:58:14.539 : Params number: 28127901
+24-04-12 18:58:14.584 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 18:58:15.490 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 18:58:15.490 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.159693 ms
+24-04-12 18:58:15.491 : ------> Average runtime per frame of (test_model) is : 1.738656 ms
+24-04-12 18:58:15.491 : ------> Average FPS of (test_model) is : 575.156762 FPS
+24-04-12 18:59:09.543 : Results of test_model
+24-04-12 18:59:09.543 : Params number: 28127901
+24-04-12 18:59:09.584 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 18:59:13.452 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 18:59:13.452 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.009687 ms
+24-04-12 18:59:13.452 : ------> Average runtime per frame of (test_model) is : 1.733656 ms
+24-04-12 18:59:13.452 : ------> Average FPS of (test_model) is : 576.815627 FPS
+24-04-12 19:03:45.821 : Results of test_model
+24-04-12 19:03:45.821 : Params number: 28127901
+24-04-12 19:03:45.858 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:03:46.786 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:03:46.787 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.139009 ms
+24-04-12 19:03:46.787 : ------> Average runtime per frame of (test_model) is : 1.737967 ms
+24-04-12 19:03:46.787 : ------> Average FPS of (test_model) is : 575.384932 FPS
+24-04-12 19:04:32.669 : Results of test_model
+24-04-12 19:04:32.669 : Params number: 28127901
+24-04-12 19:04:32.708 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:04:36.591 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:04:36.591 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.306841 ms
+24-04-12 19:04:36.591 : ------> Average runtime per frame of (test_model) is : 1.743561 ms
+24-04-12 19:04:36.592 : ------> Average FPS of (test_model) is : 573.538743 FPS
+24-04-12 19:10:41.706 : Results of test_model
+24-04-12 19:10:41.707 : Params number: 28127901
+24-04-12 19:10:41.751 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:10:42.653 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:10:42.654 : ------> Average runtime on clip 30-frames  of (test_model) is : 51.888128 ms
+24-04-12 19:10:42.654 : ------> Average runtime per frame of (test_model) is : 1.729604 ms
+24-04-12 19:10:42.654 : ------> Average FPS of (test_model) is : 578.166933 FPS
+24-04-12 19:22:37.526 : Results of test_model
+24-04-12 19:22:37.526 : Params number: 28127901
+24-04-12 19:22:37.568 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:22:38.459 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:22:38.459 : ------> Average runtime on clip 30-frames  of (test_model) is : 53.839156 ms
+24-04-12 19:22:38.460 : ------> Average runtime per frame of (test_model) is : 1.794639 ms
+24-04-12 19:22:38.460 : ------> Average FPS of (test_model) is : 557.215277 FPS
+24-04-12 19:23:44.171 : Results of test_model
+24-04-12 19:23:44.171 : Params number: 28127901
+24-04-12 19:23:44.207 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:23:48.070 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:23:48.070 : ------> Average runtime on clip 30-frames  of (test_model) is : 51.685478 ms
+24-04-12 19:23:48.070 : ------> Average runtime per frame of (test_model) is : 1.722849 ms
+24-04-12 19:23:48.071 : ------> Average FPS of (test_model) is : 580.433829 FPS
+24-04-12 19:29:33.481 : Results of test_model
+24-04-12 19:29:33.481 : Params number: 28127901
+24-04-12 19:29:33.518 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:29:34.446 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:29:34.447 : ------> Average runtime on clip 30-frames  of (test_model) is : 53.464851 ms
+24-04-12 19:29:34.447 : ------> Average runtime per frame of (test_model) is : 1.782162 ms
+24-04-12 19:29:34.447 : ------> Average FPS of (test_model) is : 561.116312 FPS
+24-04-12 19:31:31.909 : Results of test_model
+24-04-12 19:31:31.909 : Params number: 28127901
+24-04-12 19:31:31.949 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:31:32.826 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:31:32.826 : ------> Average runtime on clip 30-frames  of (test_model) is : 53.585715 ms
+24-04-12 19:31:32.827 : ------> Average runtime per frame of (test_model) is : 1.786191 ms
+24-04-12 19:31:32.827 : ------> Average FPS of (test_model) is : 559.850698 FPS
+24-04-12 19:31:52.550 : Results of test_model
+24-04-12 19:31:52.550 : Params number: 28127901
+24-04-12 19:31:52.588 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:31:56.544 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:31:56.544 : ------> Average runtime on clip 30-frames  of (test_model) is : 53.091636 ms
+24-04-12 19:31:56.544 : ------> Average runtime per frame of (test_model) is : 1.769721 ms
+24-04-12 19:31:56.544 : ------> Average FPS of (test_model) is : 565.060762 FPS
+24-04-12 19:32:29.679 : Results of test_model
+24-04-12 19:32:29.679 : Params number: 28127901
+24-04-12 19:32:29.717 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:32:30.606 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:32:30.606 : ------> Average runtime on clip 30-frames  of (test_model) is : 53.215165 ms
+24-04-12 19:32:30.606 : ------> Average runtime per frame of (test_model) is : 1.773839 ms
+24-04-12 19:32:30.606 : ------> Average FPS of (test_model) is : 563.749079 FPS
+24-04-12 19:38:43.318 : Results of test_model
+24-04-12 19:38:43.318 : Params number: 28127901
+24-04-12 19:38:43.364 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:38:44.316 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:38:44.316 : ------> Average runtime on clip 30-frames  of (test_model) is : 51.790028 ms
+24-04-12 19:38:44.316 : ------> Average runtime per frame of (test_model) is : 1.726334 ms
+24-04-12 19:38:44.316 : ------> Average FPS of (test_model) is : 579.262088 FPS
+24-04-12 19:39:04.227 : Results of test_model
+24-04-12 19:39:04.227 : Params number: 28127901
+24-04-12 19:39:04.270 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:39:08.169 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:39:08.170 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.401431 ms
+24-04-12 19:39:08.170 : ------> Average runtime per frame of (test_model) is : 1.746714 ms
+24-04-12 19:39:08.170 : ------> Average FPS of (test_model) is : 572.503455 FPS
+24-04-12 19:47:03.977 : Results of test_model
+24-04-12 19:47:03.977 : Params number: 28127901
+24-04-12 19:47:04.011 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:47:04.955 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:47:04.955 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.264349 ms
+24-04-12 19:47:04.956 : ------> Average runtime per frame of (test_model) is : 1.742145 ms
+24-04-12 19:47:04.956 : ------> Average FPS of (test_model) is : 574.005049 FPS
+24-04-12 19:47:20.571 : Results of test_model
+24-04-12 19:47:20.571 : Params number: 28127901
+24-04-12 19:47:20.613 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:47:24.486 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:47:24.486 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.266262 ms
+24-04-12 19:47:24.486 : ------> Average runtime per frame of (test_model) is : 1.742209 ms
+24-04-12 19:47:24.486 : ------> Average FPS of (test_model) is : 573.984035 FPS
+24-04-12 19:47:56.409 : Results of test_model
+24-04-12 19:47:56.409 : Params number: 28127901
+24-04-12 19:47:56.450 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:47:57.350 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:47:57.350 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.375178 ms
+24-04-12 19:47:57.351 : ------> Average runtime per frame of (test_model) is : 1.745839 ms
+24-04-12 19:47:57.351 : ------> Average FPS of (test_model) is : 572.790419 FPS
+24-04-12 19:48:18.390 : Results of test_model
+24-04-12 19:48:18.391 : Params number: 28127901
+24-04-12 19:48:18.427 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:48:22.301 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:48:22.302 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.280013 ms
+24-04-12 19:48:22.302 : ------> Average runtime per frame of (test_model) is : 1.742667 ms
+24-04-12 19:48:22.302 : ------> Average FPS of (test_model) is : 573.833064 FPS
+24-04-12 19:49:23.203 : Results of test_model
+24-04-12 19:49:23.203 : Params number: 28127901
+24-04-12 19:49:23.242 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:49:24.121 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:49:24.121 : ------> Average runtime on clip 30-frames  of (test_model) is : 51.977225 ms
+24-04-12 19:49:24.121 : ------> Average runtime per frame of (test_model) is : 1.732574 ms
+24-04-12 19:49:24.121 : ------> Average FPS of (test_model) is : 577.175863 FPS
+24-04-12 19:49:36.587 : Results of test_model
+24-04-12 19:49:36.587 : Params number: 28127901
+24-04-12 19:49:36.620 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:49:40.538 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:49:40.538 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.840039 ms
+24-04-12 19:49:40.538 : ------> Average runtime per frame of (test_model) is : 1.761335 ms
+24-04-12 19:49:40.538 : ------> Average FPS of (test_model) is : 567.751288 FPS
+24-04-12 19:50:48.659 : Results of test_model
+24-04-12 19:50:48.659 : Params number: 28127901
+24-04-12 19:50:48.705 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:50:49.694 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:50:49.694 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.446106 ms
+24-04-12 19:50:49.694 : ------> Average runtime per frame of (test_model) is : 1.748204 ms
+24-04-12 19:50:49.695 : ------> Average FPS of (test_model) is : 572.015780 FPS
+24-04-12 19:51:03.048 : Results of test_model
+24-04-12 19:51:03.049 : Params number: 28127901
+24-04-12 19:51:03.096 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:51:04.087 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:51:04.087 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.578372 ms
+24-04-12 19:51:04.087 : ------> Average runtime per frame of (test_model) is : 1.752612 ms
+24-04-12 19:51:04.088 : ------> Average FPS of (test_model) is : 570.576816 FPS
+24-04-12 19:54:31.699 : Results of test_model
+24-04-12 19:54:31.699 : Params number: 28127901
+24-04-12 19:54:31.748 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:54:32.636 : ------> INPUT 1920x1080, 30 frames, 1 clip
+24-04-12 19:54:32.636 : ------> Average runtime on clip 30-frames  of (test_model) is : 52.491981 ms
+24-04-12 19:54:32.636 : ------> Average runtime per frame of (test_model) is : 1.749733 ms
+24-04-12 19:54:32.636 : ------> Average FPS of (test_model) is : 571.515865 FPS
+24-04-12 19:54:32.637 : ------> #Params 28.127901 [M]
+24-04-12 19:55:16.778 : Results of test_model
+24-04-12 19:55:16.778 : Params number: 28127901
+24-04-12 19:55:16.823 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:55:17.809 : ------> INPUT 1920x1080, 60 frames, 1 clip
+24-04-12 19:55:17.809 : ------> Average runtime on clip 60-frames  of (test_model) is : 52.397364 ms
+24-04-12 19:55:17.810 : ------> Average runtime per frame of (test_model) is : 0.873289 ms
+24-04-12 19:55:17.810 : ------> Average FPS of (test_model) is : 1145.095780 FPS
+24-04-12 19:55:17.810 : ------> #Params 28.127901 [M]
+24-04-12 19:57:03.739 : Results of test_model
+24-04-12 19:57:03.739 : Params number: 28127901
+24-04-12 19:57:03.783 : Fragment size: torch.Size([1, 3, 32, 224, 224])
+24-04-12 19:57:04.779 : ------> INPUT 3840x2160, 60 frames, 1 clip
+24-04-12 19:57:04.779 : ------> Average runtime on clip 60-frames  of (test_model) is : 52.465977 ms
+24-04-12 19:57:04.779 : ------> Average runtime per frame of (test_model) is : 0.874433 ms
+24-04-12 19:57:04.779 : ------> Average FPS of (test_model) is : 1143.598249 FPS
+24-04-12 19:57:04.780 : ------> #Params 28.127901 [M]
